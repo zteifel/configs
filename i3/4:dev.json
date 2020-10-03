@@ -1,0 +1,115 @@
+// vim:ts=4:sw=4:et
+{
+    // splitv split container with 2 children
+    "border": "pixel",
+    "floating": "auto_off",
+    "layout": "splitv",
+    "percent": 0.5,
+    "type": "con",
+    "nodes": [
+        {
+            "border": "pixel",
+            "current_border_width": 1,
+            "floating": "auto_off",
+            "geometry": {
+               "height": 78,
+               "width": 110,
+               "x": 0,
+               "y": 0
+            },
+            "name": "zteifel@zteifel-K58CB:~/.config/i3",
+            "percent": 0.5,
+            "swallows": [
+               {
+               // "class": "^Roxterm$",
+               // "instance": "^roxterm$",
+               // "title": "^zteifel\\@zteifel\\-K58CB\\:\\~\\/\\.config\\/i3$",
+               // "transient_for": "^$",
+               // "window_role": "^roxterm\\-3677\\-fa9b92c8\\-5$"
+               }
+            ],
+            "type": "con"
+        },
+        {
+            "border": "pixel",
+            "current_border_width": 1,
+            "floating": "auto_off",
+            "geometry": {
+               "height": 78,
+               "width": 110,
+               "x": 0,
+               "y": 0
+            },
+            "name": "zteifel@zteifel-K58CB:~/.config/i3",
+            "percent": 0.5,
+            "swallows": [
+               {
+               // "class": "^Roxterm$",
+               // "instance": "^roxterm$",
+               // "title": "^zteifel\\@zteifel\\-K58CB\\:\\~\\/\\.config\\/i3$",
+               // "transient_for": "^$",
+               // "window_role": "^roxterm\\-3677\\-1272a73a\\-7$"
+               }
+            ],
+            "type": "con"
+        }
+    ]
+}
+
+{
+    // splitv split container with 2 children
+    "border": "pixel",
+    "floating": "auto_off",
+    "layout": "splitv",
+    "percent": 0.5,
+    "type": "con",
+    "nodes": [
+        {
+            "border": "pixel",
+            "current_border_width": 1,
+            "floating": "auto_off",
+            "geometry": {
+               "height": 78,
+               "width": 110,
+               "x": 0,
+               "y": 0
+            },
+            "name": "zteifel@zteifel-K58CB:~/.config/i3",
+            "percent": 0.5,
+            "swallows": [
+               {
+               // "class": "^Roxterm$",
+               // "instance": "^roxterm$",
+               // "title": "^zteifel\\@zteifel\\-K58CB\\:\\~\\/\\.config\\/i3$",
+               // "transient_for": "^$",
+               // "window_role": "^roxterm\\-3677\\-354a59be\\-8$"
+               }
+            ],
+            "type": "con"
+        },
+        {
+            "border": "pixel",
+            "current_border_width": 1,
+            "floating": "auto_off",
+            "geometry": {
+               "height": 78,
+               "width": 110,
+               "x": 0,
+               "y": 0
+            },
+            "name": "zteifel@zteifel-K58CB:~/scripts",
+            "percent": 0.5,
+            "swallows": [
+               {
+               // "class": "^Roxterm$",
+               // "instance": "^roxterm$",
+               // "title": "^zteifel\\@zteifel\\-K58CB\\:\\~\\/scripts$",
+               // "transient_for": "^$",
+               // "window_role": "^roxterm\\-3677\\-f08232fc\\-9$"
+               }
+            ],
+            "type": "con"
+        }
+    ]
+}
+
